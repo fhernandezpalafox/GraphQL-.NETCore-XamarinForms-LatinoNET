@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4C8F80C0-A1E2-4F08-9B32-673FAE82A2F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoClienteGraphQL.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoClienteGraphQL.iOS/Info.plist">
+    <Files>
+      <File FileName="DemoClienteGraphQL/MainPage.xaml.cs" Line="53" Column="1" />
+      <File FileName="DemoClienteGraphQL/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="DemoClienteGraphQL.iOS/Info.plist" />
+      <File FileName="DemoClienteGraphQL.iOS/Entitlements.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoClienteGraphQL" expanded="True">
+            <Node name="DemoClienteGraphQL.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DemoClienteGraphQL.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D524CB63-0273-42DC-AA2A-792BB6EE8455" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

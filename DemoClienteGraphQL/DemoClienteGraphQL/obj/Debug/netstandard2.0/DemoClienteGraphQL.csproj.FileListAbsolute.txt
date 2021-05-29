@@ -1,0 +1,15 @@
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/bin/Debug/netstandard2.0/DemoClienteGraphQL.deps.json
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/bin/Debug/netstandard2.0/DemoClienteGraphQL.dll
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/bin/Debug/netstandard2.0/ref/DemoClienteGraphQL.dll
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/bin/Debug/netstandard2.0/DemoClienteGraphQL.pdb
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.csprojAssemblyReference.cache
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.AssemblyInfoInputs.cache
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.AssemblyInfo.cs
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.dll
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/ref/DemoClienteGraphQL.dll
+/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/obj/Debug/netstandard2.0/DemoClienteGraphQL.pdb

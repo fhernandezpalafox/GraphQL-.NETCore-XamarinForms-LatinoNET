@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ay9/iME6+pjkmvMvISMtpQ2TwKO9BroxcHabTs8yN+xJkIn3ZF6Z5DsSmSpNlvLEZLCyOH3DicEi5KM41m0A3A==",
+  "success": true,
+  "projectFilePath": "/Users/felipehernandez/Projects/DemoClienteGraphQL/DemoClienteGraphQL/DemoClienteGraphQL.csproj",
+  "expectedPackageFiles": [
+    "/Users/felipehernandez/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/felipehernandez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/felipehernandez/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/felipehernandez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/felipehernandez/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/felipehernandez/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
